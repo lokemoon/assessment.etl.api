@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "assessment.background.job": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\workspaces\\repos\\test-assessment\\assessment.solution\\logs"
+    }
+  }
+}

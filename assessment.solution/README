@@ -1,0 +1,13 @@
+Database Deployment option, MSSQL 20xx or Azure SQL(Microsoft.Data.Tools.Schema.Sql.SqlAzureV12DatabaseSchemaProvider)
+
+Troubleshoot guide in SQL file, and sqlproj
+
+1. Build, should only done thru sqlproj
+2. Deploy, VS sqlproj or sqlpackage.exe
+scripts
+- pre/post deployment scripts
+sqlcmd variables
+NIL
+
+Code deployment
+
