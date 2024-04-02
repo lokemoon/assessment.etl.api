@@ -10,4 +10,5 @@ sqlcmd variables
 NIL
 
 Code deployment
-
+1. Build according to requirement Linux or Windows that suppirting .NET Core
+2. dotnet cli or visual studio publish
